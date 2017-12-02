@@ -4,7 +4,7 @@ from setuptools import find_packages
 from version import __version__
 
 setup(
-        name='infotopo',
+        name='infotopo0',
         packages=find_packages(),
         url='',
         license='',
